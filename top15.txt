@@ -1,0 +1,15 @@
+     12  cd cs215s14
+     12  /home/faculty/mcarrier/pickup/cs210/lab06/error.cpp
+     13  g++ main.cpp view.cpp repository.cpp controller.cpp article.cpp -lcurl -g
+     15  emacs words.output
+     16  cd Lab05
+     16  ./L04.out manywords.txt words.output
+     19  emacs swinfordP1.cpp
+     20  emacs +54 swinfordP1.cpp
+     20  g++ swinfordL04.cpp -o L04.out
+     21  cd cs210
+     24  /home/faculty/mcarrier/pickup/cs210/lab06/error.cpp Lab05
+     25  cd ..
+     28  ./P1.out
+     48  g++ swinfordP1.cpp -o P1.out
+    150  ls
